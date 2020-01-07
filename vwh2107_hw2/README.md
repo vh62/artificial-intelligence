@@ -13,3 +13,7 @@ Python3
 # Running the tests
 
 To run: execute the gamemanager like so:$python3GameManager_3.py
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/19821123/71878842-92d15f00-3124-11ea-9e93-a625f8cba9b7.png)
