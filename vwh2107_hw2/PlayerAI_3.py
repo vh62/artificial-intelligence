@@ -4,7 +4,6 @@
 from BaseAI_3 import BaseAI
 import time
 import random
-import numpy as np
 import math
 import itertools
 
